@@ -1,0 +1,1 @@
+Tento repozitář obsahuje poznámky ke školnímu roku 2025/26, oktáva 8. G
