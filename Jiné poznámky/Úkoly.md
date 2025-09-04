@@ -1,0 +1,7 @@
+- Kinematika hmotného bodu - dokument
+- ČD
+	- maturitní četba, hlavně 20. století prý
+	- počet: 3/pololetí
+- Satira - viz Teams, povídání + výtah ???
+- ČJL
+	- ústní zkoušení
