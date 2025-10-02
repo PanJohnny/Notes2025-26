@@ -345,4 +345,4 @@
 - **Mistr a Markéta**
 	- filosofický román
 	- alegorie Stalinovského Ruska
-	- magický realismus
+- magický realismus
