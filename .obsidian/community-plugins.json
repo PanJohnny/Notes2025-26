@@ -6,5 +6,8 @@
   "obsidian-trim-whitespace",
   "file-tree-alternative",
   "metadata-extractor",
-  "terminal"
+  "terminal",
+  "symbols-prettifier",
+  "obsidian-smart-typography",
+  "obsidian-plugin-toc"
 ]
