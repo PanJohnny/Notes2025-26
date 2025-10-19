@@ -1,30 +1,33 @@
-## Osnova
-1. Vybrané směry/tendence + klíčový představitelé
-	- existencialismus
-		- [[#Albert Camus]]
-		- [[#Jean-Paul Sartre]]
-		- S. de Beauvoire
-	- neorealismus
-		- A. Moravia
-	- beat generation
-		- J. Kerouac
-		- A. Ginsberg
-		- L. Ferlinghetti
-		- Ch. Bukowski
-	- magický realismus
-		- G. G. Marquez
-		- Č. Ajtmatov
-	- nový román
-		- A. Robbe-Grillet
-	- absurdní literatura
-		- S. Beckett
-		- E. Ionesco
-	- postmodernismus
-		- E. Eco
-		- V. Nabokov
-		- K. Vonnegut
-		- M. Kundera
-2. Další vybraní autoři
+- [[#Existencialismus|Existencialismus]]
+	- [[#Existencialismus#Albert Camus|Albert Camus]]
+	- [[#Existencialismus#Jean-Paul Sartre|Jean-Paul Sartre]]
+- [[#Neorealismus|Neorealismus]]
+	- [[#Neorealismus#Alberto Moravia|Alberto Moravia]]
+- [[#Rozhněvaní mladí muži|Rozhněvaní mladí muži]]
+	- [[#Rozhněvaní mladí muži#Kingsley William Amis|Kingsley William Amis]]
+- [[#Beatníci|Beatníci]]
+	- [[#Beatníci#Jack Kerouac|Jack Kerouac]]
+	- [[#Beatníci#Allen Ginsberg|Allen Ginsberg]]
+	- [[#Beatníci#Charles Bukowski|Charles Bukowski]]
+	- [[#Beatníci#Lawrence Ferlinghetti|Lawrence Ferlinghetti]]
+- [[#Absurdní literatura (drama)|Absurdní literatura (drama)]]
+	- [[#Absurdní literatura (drama)#Samuel Backett|Samuel Backett]]
+	- [[#Absurdní literatura (drama)#Eugéne Ionesco|Eugéne Ionesco]]
+	- [[#Absurdní literatura (drama)#Edward Albee|Edward Albee]]
+- [[#Nový román|Nový román]]
+	- [[#Nový román#Alain Robbe-Grillet|Alain Robbe-Grillet]]
+- [[#Magický realismus|Magický realismus]]
+	- [[#Magický realismus#Gabriel José García Márquez|Gabriel José García Márquez]]
+	- [[#Magický realismus#Čingiz Ajtmatov|Čingiz Ajtmatov]]
+- [[#Postmodernismus|Postmodernismus]]
+	- [[#Postmodernismus#Umberto Eco|Umberto Eco]]
+	- [[#Postmodernismus#Vladimir Vladimirovič Nabokov|Vladimir Vladimirovič Nabokov]]
+	- [[#Postmodernismus#Milan Kundera|Milan Kundera]]
+	- [[#Postmodernismus#Ken Kesey|Ken Kesey]]
+	- [[#Postmodernismus#Kurt Vonnegut|Kurt Vonnegut]]
+- [[#Zábavná konspirativní literatura|Zábavná konspirativní literatura]]
+	- [[#Zábavná konspirativní literatura#Dan Brown|Dan Brown]]
+- Další vybraní autoři
 	- Velká Británie
 		- A. Burgess
 		- S. Rushdie
